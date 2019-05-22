@@ -9,7 +9,7 @@ public class switchstring {
 		printColorUsingSwitch("RED");
 		printColorUsingSwitch(null);
 	}
-
+//add comment
 	private static void printColorUsingIf(String color) {
 		if (color.equals("blue")) {
 			System.out.println("BLUE");
