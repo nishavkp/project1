@@ -10,6 +10,7 @@ public class switchstring {
 		printColorUsingSwitch(null);
 	}
 //add comment
+	//sysos
 	private static void printColorUsingIf(String color) {
 		if (color.equals("blue")) {
 			System.out.println("BLUE");
